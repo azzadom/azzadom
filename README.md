@@ -42,20 +42,9 @@ A Master's candidate in Data Science at Sapienza University of Rome, I specializ
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 🔍 Research Interests
-
-- Artificial Intelligence 
-- Deep Learning Architectures
-- Computer Vision Innovations 
-- Predictive Analytics 
-
-## 🏆 Academic Projects
-Explore the documentation of my academic journey through the repositories in my GitHub profile. Each project is documented in the README files, providing in-depth insights into the methodologies, technologies, and outcomes of my academic work.
-
 ## 📊 GitHub Stats: 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=azzadom&theme=default&hide_border=false) <br/>
 ![](https://github-contributor-stats.vercel.app/api?username=azzadom&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=false)
-
 
 ##
 ![Profile Views](https://komarev.com/ghpvc/?username=azzadom&style=flat-square)
