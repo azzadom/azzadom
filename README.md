@@ -1,4 +1,4 @@
-# Hi, I'm Domenico 👋
+# Hi , I'm Domenico 👋
 
 ## 👤 About Me
 
