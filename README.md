@@ -45,8 +45,3 @@ A Master's candidate in Data Science at Sapienza University of Rome, I specializ
 ## 📊 GitHub Stats: 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=azzadom&theme=default&hide_border=false) <br/>
 ![](https://github-contributor-stats.vercel.app/api?username=azzadom&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=false)
-
-##
-![Profile Views](https://komarev.com/ghpvc/?username=azzadom&style=flat-square)
-
-
