@@ -40,8 +40,3 @@ A Master's candidate in Data Science at Sapienza University of Rome, I specializ
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-## 📊 GitHub Stats: 
-![](https://github-readme-streak-stats.herokuapp.com/?user=azzadom&theme=default&hide_border=false) <br/>
-![](https://github-contributor-stats.vercel.app/api?username=azzadom&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=false)
